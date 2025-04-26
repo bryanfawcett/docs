@@ -27,9 +27,7 @@
             "group": "Specialized Areas",
             "pages": [
               "technology-coordination",
-              "project-management",
-              "infrastructure-management",
-              "digital-transformation"
+              "infrastructure-management"
             ]
           }
         ]
@@ -38,7 +36,7 @@
         "tab": "Case Studies",
         "groups": [
           {
-            "group": "Education Technology",
+            "group": "Educational Technology",
             "pages": [
               "case-studies/singapore-american-school",
               "case-studies/osaka-ymca",
