@@ -1,55 +1,55 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "maple",
-  "name": "Bryan Fawcett's Portfolio",
+  "name": "Bryan Fawcett",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#2563EB",
+    "light": "#3B82F6",
+    "dark": "#1D4ED8"
   },
   "favicon": "/favicon.svg",
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Portfolio",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "Overview",
             "pages": [
               "introduction",
-              "quickstart",
-              "development"
+              "experience",
+              "skills",
+              "education",
+              "projects"
             ]
           },
           {
-            "group": "Essentials",
+            "group": "Specialized Areas",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+              "technology-coordination",
+              "project-management",
+              "infrastructure-management",
+              "digital-transformation"
             ]
           }
         ]
       },
       {
-        "tab": "API Reference",
+        "tab": "Case Studies",
         "groups": [
           {
-            "group": "API Documentation",
+            "group": "Education Technology",
             "pages": [
-              "api-reference/introduction"
+              "case-studies/singapore-american-school",
+              "case-studies/osaka-ymca",
+              "case-studies/digital-learning"
             ]
           },
           {
-            "group": "Endpoint Examples",
+            "group": "Leadership",
             "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "case-studies/it-governance",
+              "case-studies/team-management"
             ]
           }
         ]
@@ -58,19 +58,19 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
+          "anchor": "LinkedIn",
+          "href": "https://linkedin.com/in/bryandavidfawcett",
+          "icon": "linkedin"
         },
         {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
-          "icon": "slack"
+          "anchor": "GitHub",
+          "href": "https://github.com/bryandavidfawcett",
+          "icon": "github"
         },
         {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
+          "anchor": "Contact",
+          "href": "mailto:bryandavidfawcett@gmail.com",
+          "icon": "envelope"
         }
       ]
     }
@@ -82,21 +82,20 @@
   "navbar": {
     "links": [
       {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "label": "Resume",
+        "href": "/Bryan_Fawcett_Resume.pdf"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "label": "Contact Me",
+      "href": "mailto:bryandavidfawcett@gmail.com"
     }
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "linkedin": "https://linkedin.com/in/bryandavidfawcett",
+      "github": "https://github.com/bryandavidfawcett"
     }
   }
 }
